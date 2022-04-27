@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Plortinus/element-china-area-data.git"
+    "url": "git+https://github.com/xt-oe/element-china-area-data.git"
   },
   "keywords": [
     "element",
@@ -22,14 +22,13 @@
     "省市区",
     "级联"
   ],
-  "author": "plortinus@gmail.com",
+  "author": "lfxu@claint.com.cn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Plortinus/element-china-area-data/issues"
+    "url": "https://github.com/xt-oe/element-china-area-data/issues"
   },
-  "homepage": "https://github.com/Plortinus/element-china-area-data#readme",
+  "homepage": "https://github.com/xt-oe/element-china-area-data#readme",
   "dependencies": {
-    "china-area-data": "^5.0.1",
     "lodash-es": "^4.17.15"
   },
   "devDependencies": {

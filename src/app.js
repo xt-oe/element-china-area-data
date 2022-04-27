@@ -1,4 +1,4 @@
-import REGION_DATA from 'china-area-data'
+let REGION_DATA = require('./data.json')
 import { cloneDeep } from 'lodash-es'
 
 // code转汉字大对象
